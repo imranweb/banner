@@ -1,4 +1,4 @@
 function testCode() {
-console.log(document.getElementById('page'));
+console.log(document.getElementById('page').textContent);
 }
 testCode();
